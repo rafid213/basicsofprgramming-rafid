@@ -44,15 +44,18 @@ public class App {
 
         // Finout the Name And Age
 
-        Scanner in = new Scanner(System.in);
+        // Scanner in = new Scanner(System.in);
 
-        System.out.println("What is Your Name?");
-        String name = in.nextLine();
+        // System.out.println("What is Your Name?");
+        // String name = in.nextLine();
 
-        System.out.println("How old are you?");
-        int age = in.nextInt();
+        // System.out.println("How old are you?");
+        // int age = in.nextInt();
 
-        System.out.println("Your name is " + name + " and you are " + age + " years old.");
+        // System.out.println("Your name is " + name + " and you are " + age + " years old.");
+
+
+        hahahaha
 
 
 
