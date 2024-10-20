@@ -55,7 +55,35 @@ public class App {
         // System.out.println("Your name is " + name + " and you are " + age + " years old.");
 
 
-        hahahaha
+        // Findout the First number and last number
+
+        // Scanner in = new Scanner(System.in);
+        
+        // System.out.println("First Number");
+        // int firstNumber = in.nextInt();
+
+        // System.out.println("Last Number");
+        // int lastNumber = in.nextInt();
+
+        // for(int i = firstNumber; i<= lastNumber; i++);
+        // {
+        //     System.out.println(in);
+        // }
+
+
+        // SUM of the NUMBERS
+
+        // Scanner in = new Scanner(System.in);
+
+        // System.out.println("First Number");
+        // int num1 = in.nextInt();
+
+        // System.out.println("Second Number");
+        // int num2 = in.nextInt();
+
+        // int sum = num1 + num2;
+        // System.out.println("The sum is " + sum);
+
 
 
 
