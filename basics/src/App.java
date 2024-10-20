@@ -4,6 +4,8 @@ public class App {
 
         // USER INPUT
 
+        // Finding the Greater number
+
 
         // int num1 = 120;
         // int num2 = 100;
@@ -17,7 +19,23 @@ public class App {
 
         // FOR LOOP
 
-        for (int i=10; i<=30; i++)
+        // Finding the Numbers Loop
+
+        // for (int i=10; i<=30; i++)
+        // {
+        //     System.out.println(i);
+        // }
+
+
+        // Finding the Specific numbers using LOOP
+
+        // for(int i=10; i<=50; i++)
+        
+        // if (i == 15 || i == 25 || i == 35) {
+
+        //     System.out.println(i);
+            
+        // }
 
 
 
