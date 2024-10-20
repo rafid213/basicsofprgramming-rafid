@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) throws Exception {
        
@@ -36,6 +38,25 @@ public class App {
         //     System.out.println(i);
             
         // }
+
+
+
+
+        // Finout the Name And Age
+
+        Scanner in = new Scanner(System.in);
+
+        System.out.println("What is Your Name?");
+        String name = in.nextLine();
+
+        System.out.println("How old are you?");
+        int age = in.nextInt();
+
+        System.out.println("Your name is " + name + " and you are " + age + " years old.");
+
+
+
+
 
 
 
